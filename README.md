@@ -1,3 +1,3 @@
 # Docs
 
-This is an organisation repository.
+This is an organisation repository to play with for testing.
